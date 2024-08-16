@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: black;
+    
+}
+.container-fluid{
+    background-color: black;
+}
+.col-md-4 img{
+    height: 90px;
+}
